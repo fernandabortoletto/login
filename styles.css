@@ -164,6 +164,13 @@ body {
     font-size: 18px;
 }
 
+.social-media ion-icon:hover {
+    font-size: 22px;
+    border: none;
+    transition: 0.5s;
+
+}
+
 .apple {
     border: none;
     border-radius: 40px;
@@ -184,3 +191,4 @@ body {
     width: 32%;
     cursor: pointer;
 }
+
