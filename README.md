@@ -28,7 +28,7 @@ Este projeto foi construido acompanhando uma videoaula do DevClub, e me ajudou a
 - Customização de estilos com hover
 
 ## 💻 Projeto
-- [Acesse o projeto finalizado, online](https://login-fernanda.netlify.app/)
+- [Acesse o projeto finalizado](https://login-fernanda.netlify.app/)
 
 ---
 
