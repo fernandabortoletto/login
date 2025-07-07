@@ -129,11 +129,6 @@ body {
     margin-bottom: 20px;
 }
 
-.divider:hover {
-scale: 1.1;
-transition: 0.5s;
-}
-
 .divider::before,
 .divider::after {
     content: '';
