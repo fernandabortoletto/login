@@ -161,14 +161,12 @@ body {
 }
 
 .social-media ion-icon {
-    font-size: 18px;
+    scale: 1.3;
 }
 
 .social-media ion-icon:hover {
-    font-size: 22px;
+    scale: 1.7;
     border: none;
-    transition: 0.5s;
-
 }
 
 .apple {
